@@ -1,0 +1,1 @@
+There are 2 branch available master and main.In master branch ,the video of  the admin portal is available and in main branch, the video of the hotel website for the end user with proper database connectivity is available.
